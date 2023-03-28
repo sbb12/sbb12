@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I am an aspiring python developer.
-Learning full stack web development and automation.
-I also have cool projects which involve 3d printers, raspberry Pis and other microcontrollers, ranging from making IOT vioce activated window blinds to using openCV and RPis to alert me when the neighbourhood ginger cat enters the garden.
+killed PHP and JavaScript web developer with a passion for creating elegant and userfriendly websites and web applications. Proficient in PHP frameworks such as Laravel 
+and CodeIgniter, with experience using JavaScript meta-frameworks NextJS and Sveltekit.
 
 <!--
 **sbb12/sbb12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
